@@ -1,16 +1,16 @@
-### Hi there 👋
+### Its ARPITA SHAW 
 
 <!--
-**Arpita588/Arpita588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Here's Arpita Shaw , a
+student  and I’m in  a computer science major. I have experience with programming languages,  Python, and SQL. I’m particularly interested in artificial intelligence and data analytics , 
 
-Here are some ideas to get you started:
+•I'm passionate about coding 
+•I'm currently working on C programming language.
+- I’ve always been passionate about learning new things, whether reading a book or watching a movie—I just can’t get enough of it! My most extensive interests include programming, mathematics — no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by books and computersI love teaching myself new things. I started with programming in higher secondary and now continuing in college 
+Reach me and connect me via 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+arpitashaw588@gmail.com
+
+
+THANK YOU ☺️
 -->
