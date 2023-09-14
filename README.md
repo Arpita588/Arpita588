@@ -13,7 +13,7 @@
 
 👉•I'm currently working on C programming language.
 
-👉 I’ve always been passionate about learning new things, whether reading a book or watching a movie —I just can’t get enough of it! My most extensive interests include programming, mathematics — no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by books and computersI love teaching myself new things. I started with programming in higher secondary and now continuing in college ...✨
+👉 I’ve always been passionate about learning new things, whether reading a book or watching a movie —I just can’t get enough of it! My most extensive interests include programming, mathematics — no matter what I’m doing at school or working on in my free time, you’ll always find me surrounded by books and computers . I love teaching myself new things. I started with programming in higher secondary and now continuing in college ...✨
 
 👉Reach me and connect me via 
 arpitashaw588@gmail.com
