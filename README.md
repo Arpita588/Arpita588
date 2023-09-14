@@ -1,8 +1,7 @@
-### Its ARPITA SHAW 
+### Its ARPITA SHAW HERE 
 
 <!--
-**Here's Arpita Shaw , a
-student  and I’m in  a computer science major. I have experience with programming languages,  Python, and SQL. I’m particularly interested in artificial intelligence and data analytics , 
+**Here's Arpita Shaw , a being a college student  I’m in  a computer science major. I have experience with programming languages   Python, and SQL. I’m particularly interested in artificial intelligence and data analytics ..
 
 •I'm passionate about coding 
 •I'm currently working on C programming language.
